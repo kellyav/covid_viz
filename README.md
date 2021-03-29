@@ -1,4 +1,4 @@
-# DataCamp Visualization of Covid19
+# Visualization of Early Stages of the Covid19 Pandemic Spread
 
 ## Datasets 
 All the datasets used are posted here for reproducibility. 
